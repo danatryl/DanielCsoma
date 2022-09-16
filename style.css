@@ -1,0 +1,63 @@
+body {background-color: #EEEEEE; margin: 0;
+ text-align: center; font-family: monospace; font-size: 1.2rem;}
+div.header {background-color: #34B3F1; position: relative; padding-top:50px;}
+.cloud2 {position: absolute; left: 300px; bottom: 300px;}
+.cloud {position: absolute; right: 300px; top: 50px;}
+h1 {padding-top: 50px; font-family: "Neucha", "Major Mono Display", monospace;
+font-size: 6rem; margin: 50px auto 0 auto; color: #F15412;}
+h2 {font-size: 2.7rem; color: #F15412; font-weight: normal;}
+div.middle-container {background-color: #EEEEEE;}
+.mountain {margin-bottom: 0;}
+div.skills {width: 50%; display: inline-block; line-height: 2;}
+img.coding {width: 200px; height: auto; float: left; margin-right: 50px;}
+img.media {width: 200px; height: auto; float: right; margin-left: 30px;}
+h3 {color: #F15412;}
+table {display: inline-block;}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #34B3F1;
+    border-width: 6px;
+    height: 0px;
+    width: 60%;
+    padding: 20px;}
+ol {display: inline-block; width: 60%;}
+.greet {padding-bottom:  50px;}
+.dana {border-radius: 30%; padding-top: 30px;}
+.tanul {text-align: left; padding-bottom: 50px;}
+.web {text-align: left;}
+.digital {text-align: right;}
+.Media {text-align: right;}
+.btn {
+  background: #34B3F1;
+  background-image: -webkit-linear-gradient(top, #34B3F1, #F15412);
+  background-image: -moz-linear-gradient(top, #34B3F1, #F15412);
+  background-image: -ms-linear-gradient(top, #34B3F1, #F15412);
+  background-image: -o-linear-gradient(top, #34B3F1, #F15412);
+  background-image: linear-gradient(to bottom, #34B3F1, #F15412);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #82bce0;
+  background-image: -webkit-linear-gradient(top, #82bce0, #d99e86);
+  background-image: -moz-linear-gradient(top, #82bce0, #d99e86);
+  background-image: -ms-linear-gradient(top, #82bce0, #d99e86);
+  background-image: -o-linear-gradient(top, #82bce0, #d99e86);
+  background-image: linear-gradient(to bottom, #82bce0, #d99e86);
+  text-decoration: none;
+}
+.bott {padding-bottom: 50px;}
+.bottom-container {padding-top: 10px; background-color: #34B3F1;
+margin-top: 50px; padding-bottom: 20px;}
+a {color: #AEFEFF; margin-left: 20px; margin-right: 20px; text-decoration: none;}
+a:hover {color: #F15412;}
+.copyright {color: #F15412; font-size: 1rem; padding-top: 20px;}
+.Media {padding-bottom: 30px;}
